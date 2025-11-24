@@ -104,7 +104,7 @@ NewsApp/
 1. **Клонируйте репозиторий**
 ```bash
    git clone https://github.com/Tair15/Taishanov-News.git
-   cd NewsApp
+   cd Taishanov-News
 ```
 
 2. **Установите зависимости**
