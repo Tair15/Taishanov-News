@@ -114,12 +114,12 @@ NewsApp/
 
 3. **Настройте переменные окружения**
    
-   Создайте файл `.env` в корневой директории:
+   Файл `.env` в корневой директории уже имеет внутри апи ключь мне не жалко:
 ```env
-   EXPO_PUBLIC_NEWS_API_KEY=ваш_ключ_newsapi
+   EXPO_PUBLIC_NEWS_API_KEY=ключ_newsapi
 ```
    
-   Получите бесплатный API ключ на [NewsAPI.org](https://newsapi.org/)
+   Можно получить бесплатный API ключ на [NewsAPI.org](https://newsapi.org/)
 
 4. **Запустите сервер разработки**
 ```bash
